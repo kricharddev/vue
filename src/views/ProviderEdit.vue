@@ -128,8 +128,6 @@
 
     export default {
         components:{
-            DxAccordion,
-            DxItem,
             ProviderInformation,
             ProviderHumanResources,
             ProviderServiceAreas,
